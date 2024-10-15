@@ -13,7 +13,7 @@ run the following commands
 
 Copy the admin password to setup the jenkins wizard 
 
-Update the webhook by mentioning the jenkins server url in the payload link with a name
+Update the webhook by mentioning the jenkins server url in the payload link with a name and check the webhook
 
 Open port 8080 in your security group inbound rule to access Jenkins via browser
 change the hostname: sudo hostnamectl set-hostname jenkins
