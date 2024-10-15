@@ -22,7 +22,7 @@ then enter /bin/bash to check if the hostname is updated
 
 SonarQube
 
-  sudo apt update
+  sudo apt update 
   sudo apt install openjdk-17-jre
    wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.7.0.96327.zip?_gl=1*apb4l9*_gcl_au*NDgwMzM3MzQ2LjE3Mjg0MzU0NzA.*_ga*MTcyMjI3MzY1OS4xNzI4NDM1NDcw*_ga_9JZ0GZ5TC6*MTcyODQzNTQ3MC4xLjEuMTcyODQzNTU1Mi42MC4wLjA.
   ls
