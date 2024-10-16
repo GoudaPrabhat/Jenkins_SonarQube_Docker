@@ -3,7 +3,9 @@ Set up Jenkins server
 
 run the following commands
 # to update the system
+  '''
   sudo apt update
+  '''
 # install java 17 runtime environment
   sudo apt install openjdk-17-jre
 #install jenkins
